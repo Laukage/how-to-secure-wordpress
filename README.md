@@ -33,4 +33,4 @@ Because of it's market share, it is heavily targetted by threat actors and there
 
 
 # Disclaimer
-This document is intended for informational purposes only and does not create any legal obligations or guarantees. For detailed guidance, please consult the official Microsoft documentation and advisories.
+This document is intended for informational purposes only and does not create any legal obligations or guarantees. For detailed guidance, please consult the official WordPress documentation and advisories.

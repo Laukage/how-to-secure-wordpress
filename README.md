@@ -29,3 +29,8 @@ Because of it's market share, it is heavily targetted by threat actors and there
   * **7.4.** Disable XML-RPC
   * **7.5.** Hide WordPress Version
   * **7.6.** Block hotlinking
+
+
+
+# Disclaimer
+This document is intended for informational purposes only and does not create any legal obligations or guarantees. For detailed guidance, please consult the official Microsoft documentation and advisories.
